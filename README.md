@@ -1,4 +1,4 @@
-## eae
+## Eaí! Me chamo José Salles e atualmente estou cursando BTI, na UFERSA.
 
 <!--
 **J0seph02/j0seph02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
